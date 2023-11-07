@@ -30,6 +30,7 @@ pipenv install
 pipenv shell
 ```
 
+## Model Creation
 
 ## Model Deployment on Web Service:
 The trained model should be deploy for ease access of the model functionality. One of the most effective method is we serve the model as web service. In this project we use **Flask** (an python web service  framework). 
