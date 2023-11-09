@@ -5,7 +5,7 @@ In the realm of professional football, a player transfer takes place when a play
 This project is dedicated to the prediction of football players' market values, drawing insights from their in-game, profile, and attribute statistics. Utilizing machine learning techniques, we aim to provide a valuable tool for clubs, agents, and enthusiasts, enabling them to assess and comprehend the market value of players. The predictive player valuation model can help professional clubs to setting a reasonable starting point for negotiations regarding a player's price.
 
 ## Dataset
-The dataset of this project taken from [Kaggle Dataset link](https://www.kaggle.com/datasets/davidcariboo/player-scores). In this project we dont use all of available data from the kaggle. The used dataset: apperances.csv, games.csv, players.csv. The used dataset can check and download in this repository [Used Dataset](./data-raw)
+The dataset of this project taken from [Kaggle Dataset link](https://www.kaggle.com/datasets/davidcariboo/player-scores). In this project we dont use all of available data from the kaggle. The used dataset: apperances.csv, games.csv, players.csv. The used dataset can check and download in this repository , spesifically on [data-raw](./data-raw) folder.
 
 ## Dependencies 
 To run this project, you will need the following dependencies:
