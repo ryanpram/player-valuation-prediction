@@ -95,7 +95,7 @@ gunicorn --bind 0.0.0.0:9696 predict:ap
 ### Docker Containerization:
 Before we deploy our model web service , we wrap it with docker container first. Docker container can wrap all dependencies needed with the apps so we can avoid dependencies conflic when we run our app in the cloud environment.
 1. Install Docker desktop 
-2. Build docker image from [Dockerfile script](./predict.py)
+2. Build docker image from [Dockerfile script](./Dockerfile)
 ```python
 docker build -t <tag-name> <Dockerfile-location-path>
 ```
